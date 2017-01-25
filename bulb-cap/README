@@ -1,0 +1,9 @@
+OS: Linux
+Word size of OS: 64-bit
+Word size of FreeCAD: 64-bit
+Version: 0.16.
+Build type: None
+Python version: 2.7.9
+Qt version: 4.8.6
+Coin version: 4.0.0a
+OCC version: 6.8.0.oce-0.17
